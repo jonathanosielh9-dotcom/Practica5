@@ -1,0 +1,19 @@
+# Archivos de compilación de Java
+*.class
+*.jar
+*.war
+
+# Carpetas de compilación
+build/
+dist/
+target/
+
+# Archivos privados y de configuración de NetBeans / VSCode
+nbproject/private/
+.nb-gradle/
+.vscode/
+.idea/
+
+# Archivos temporales de Windows
+Thumbs.db
+Desktop.ini
